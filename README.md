@@ -1,2 +1,2 @@
 # cryptoprofit.github.io
-website
+
